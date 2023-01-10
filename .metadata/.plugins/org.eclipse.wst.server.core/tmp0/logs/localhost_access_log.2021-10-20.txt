@@ -1,0 +1,4 @@
+127.0.0.1 - - [20/Oct/2021:22:57:16 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Oct/2021:22:57:17 +0530] "GET /Tour_guide/WEB-INF/classes/lec4a/Main.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [20/Oct/2021:22:57:33 +0530] "GET /Tour_guide/WEB-INF/classes/lec4a/Animal.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [20/Oct/2021:22:58:36 +0530] "GET /Tour_guide/WEB-INF/classes/lec4a/Cat.java HTTP/1.1" 404 682
